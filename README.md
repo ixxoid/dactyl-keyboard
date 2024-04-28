@@ -21,7 +21,7 @@ Middle view
 
 Back view
 
-![](resources/keyb_complete_dsa_01 1.jpg)
+![](resources/keyb_complete_dsa_01_1.jpg)
 
 I switched to DSA keycaps, because the caps have all the same height, which makes sense on the curved key alignement. Since there are no DSA keycaps with swiss layout available, I use blank ones.
 
@@ -100,11 +100,11 @@ The final keyboard case after refining the surface in Z-Brush.  The picture is f
 
 The Arduino Pro micro mount is designed to hold the Arduino in place without any screws. 
 
-![](resources/arduino_mount_cad_200.png)
+![](resources/arduino_mount_cad_400.png)
 
 The CAD model<br>
 
-![](resources/arduino_mounted.png)
+![](resources/arduino_mounted_400.png)
 
 The 3D printed mount with the Arduino
 
