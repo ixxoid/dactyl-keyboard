@@ -110,8 +110,7 @@ The 3D printed mount with the Arduino
 
 ##### The SDDS mount
 
-![](resources/sdds_mount_cad.png | 200)
-<img src="resources/sdds_mount_cad.png" width="200" align="left">
+![](resources/sdds_mount_cad_200.png)
 
 The CAD model of the SDDS mount
 
