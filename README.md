@@ -100,28 +100,30 @@ The final keyboard case after refining the surface in Z-Brush.  The picture is f
 
 The Arduino Pro micro mount is designed to hold the Arduino in place without any screws. 
 
-![](resources/arduino_mount_cad.png | 400)
+![](resources/arduino_mount_cad_200.png)
 
-The CAD model
+The CAD model<br>
 
-![](resources/arduino_mounted.png | 400)
+![](resources/arduino_mounted.png)
 
 The 3D printed mount with the Arduino
 
 ##### The SDDS mount
 
 ![](resources/sdds_mount_cad.png | 200)
+<img src="resources/sdds_mount_cad.png" width="200" align="left">
 
 The CAD model of the SDDS mount
 
 #### The case bottom with the anti slip feets
 
-![](resources/keyb_bottom_closed.jpg | 600)
+![](resources/keyb_bottom_closed.jpg)
 
 
 #### 3D Printing the case
 
-![](resources/20230726_070840_2.jpg | 500)
+![](resources/20230726_070840_2.jpg)
+
 
 During the print of the left case
 
