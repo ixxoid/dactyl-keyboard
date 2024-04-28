@@ -200,3 +200,7 @@ PETG like fillament for the Arduino & TRRS holders and the bottom plates.
 Andi4000's build log was very inspiring for me, because it's one of the very few Dactyl Manuforms with a 6x7 layout:
 
 Andi4000 6x7 Dactyl-ManuForm Fork  https://github.com/andi4000/dactyl-keyboard#firmware
+
+## License
+
+The source code for generating the models (everything excluding the [things/](things/) and [resources/](resources/) directories is distributed under the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3](LICENSE).  The generated models and PCB designs are distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike License Version 3.0](LICENSE-models).
