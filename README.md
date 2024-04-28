@@ -1,7 +1,7 @@
 # Ixxoid Dactyl Manuform 6x7 Keyboard - Wooden Case
 This is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard), a parameterized, split-hand, concave, columnar, ergonomic keyboard.
 
-![[resources/keyb_complete_oem_06.jpg]]
+![](resources/keyb_complete_oem_06.jpg)
 
 My first Dactyl Manuform style Keyboard originally equipped with OEM Keycaps
 
