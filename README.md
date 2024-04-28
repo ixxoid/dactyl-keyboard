@@ -13,7 +13,7 @@ Side view
 
 Back view
 
-![](resources/front_middle_detail.jpg | 400)
+![](resources/front_middle_detail_400.jpg)
 
 Middle view
 
