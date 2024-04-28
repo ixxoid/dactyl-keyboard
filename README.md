@@ -5,23 +5,23 @@ This is a fork of the [Dactyl](https://github.com/adereth/dactyl-keyboard), a pa
 
 My first Dactyl Manuform style Keyboard originally equipped with OEM Keycaps
 
-![](keyb_side_oem_01.jpg)
+![](resources/keyb_side_oem_01.jpg)
 
 Side view
 
-![](keyb_back_01.jpg)
+![](resources/keyb_back_01.jpg)
 
 Back view
 
-![](front_middle_detail.jpg | 400)
+![](resources/front_middle_detail.jpg | 400)
 
 Middle view
 
-![](keyb_back_02.jpg)
+![](resources/keyb_back_02.jpg)
 
 Back view
 
-![](keyb_complete_dsa_01 1.jpg)
+![](resources/keyb_complete_dsa_01 1.jpg)
 
 I switched to DSA keycaps, because the caps have all the same height, which makes sense on the curved key alignement. Since there are no DSA keycaps with swiss layout available, I use blank ones.
 
@@ -44,30 +44,30 @@ I just wanted to use the generator to create the "switch mounting matrix" of the
 
 #### CAD modelling in Rhinoceros 3D (Rhino 3D)
 
-![](step_case_complete.png)
+![](resources/step_case_complete.png)
 
 This is the complete case which I had generated with the "dactyle keyboard generator" and then imported the STEP file into Rhnicoeros 3D as  a poly surface. Here with partially filled switch holes.
 
 
-![](step_case_stripped.png)
+![](resources/step_case_stripped.png)
 
 This is the top of the case after deleting the other parts, as poly surface geometry.
 
 
-![](booleans_01.png)
+![](resources/booleans_01.png)
 
 This are the boundarys of the key holes from the imported case in step format. They have the slots which allows the Cherry MX switches to snap in the case
 
 
-![](step_converted_subd.png)
+![](resources/step_converted_subd.png)
 
 The first try to generate a subd surface. The surface was converted from the imported step file to a mesh and then to a subd surface. The quality of the surface was not good enough for beeing usable. 
 
-![](case_step_surface.png)
+![](resources/case_step_surface.png)
 
 the converted surface has not a very good quality. Parts which should only be a simple rectangle, are splited into many sub surfaces.
 
-![](case_holes.png)
+![](resources/case_holes.png)
 
 There were also some holes in the model which couldn't be closed.
 
@@ -75,24 +75,24 @@ There were also some holes in the model which couldn't be closed.
 Therefore I had to redesign the complete surface. I used the SUBD mode in Rhino 3D, because this allows for a more organic surface design.
 
 
-![](case_dsub_redesign_01.png)
+![](resources/case_dsub_redesign_01.png)
 
 
 The redesigned top surfaces before joining the thumb cluster
 
 
-![](case_dsub_01.png)
+![](resources/case_dsub_01.png)
 
 The completely manually generated subd surface in the version from the 9th of July 2023 (the space for the keys might be not sufficient with a wall thickness of 5 mm..)
 
 
-![](case_dsub_redesign_02.png)
+![](resources/case_dsub_redesign_02.png)
 
 
 The completed surface with keycaps...
 
 
-![](case_zbrush_01.png)
+![](resources/case_zbrush_01.png)
 
 The final keyboard case after refining the surface in Z-Brush.  The picture is from rendering the model back in CAD
 
@@ -100,33 +100,33 @@ The final keyboard case after refining the surface in Z-Brush.  The picture is f
 
 The Arduino Pro micro mount is designed to hold the Arduino in place without any screws. 
 
-![](arduino_mount_cad.png | 400)
+![](resources/arduino_mount_cad.png | 400)
 
 The CAD model
 
-![](arduino_mounted.png | 400)
+![](resources/arduino_mounted.png | 400)
 
 The 3D printed mount with the Arduino
 
 ##### The SDDS mount
 
-![](sdds_mount_cad.png | 200)
+![](resources/sdds_mount_cad.png | 200)
 
 The CAD model of the SDDS mount
 
 #### The case bottom with the anti slip feets
 
-![](keyb_bottom_closed.jpg | 600)
+![](resources/keyb_bottom_closed.jpg | 600)
 
 
 #### 3D Printing the case
 
-![](20230726_070840_2.jpg | 500)
+![](resources/20230726_070840_2.jpg | 500)
 
 During the print of the left case
 
 
-![](case_top_raw.jpg)
+![](resources/case_top_raw.jpg)
 
 The left half right after printing before cleaning up and with the supports not yet removed
 
@@ -145,20 +145,20 @@ https://github.com/tshort/dactyl-keyboard?tab=readme-ov-file
 https://deskthority.net/wiki/Arduino_Pro_Micro#Pinout
 
 
-![](pcbs_prepared.jpg)
+![](resources/pcbs_prepared.jpg)
 
 The Amoeba PCB's with soldered diodes, hot-plug sockets and wires
 
-![](case_bottom_amoeba_unmounted.jpg)
+![](resources/case_bottom_amoeba_unmounted.jpg)
 
 The PCB's before mounting on the Cherry MX switches
 
-![](case_bottom_amoeba_mounted.jpg)
+![](resources/case_bottom_amoeba_mounted.jpg)
 
 The wiring is finished 
 
 
-![](case_top_switches.jpg)
+![](resources/case_top_switches.jpg)
 
 The completed case without keycaps
 
