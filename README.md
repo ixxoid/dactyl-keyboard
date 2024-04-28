@@ -121,7 +121,7 @@ The CAD model of the SDDS mount
 
 #### 3D Printing the case
 
-![](resources/20230726_070840_2.jpg)
+![](resources/printing_the_case_500.jpg)
 
 
 During the print of the left case
