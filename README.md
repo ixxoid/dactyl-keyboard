@@ -21,7 +21,7 @@ Middle view
 
 Back view
 
-![](resources/keyb_complete_dsa_01_1.jpg)
+![](resources/keyb_complete_dsa_01_2.jpg)
 
 I switched to DSA keycaps, because the caps have all the same height, which makes sense on the curved key alignement. Since there are no DSA keycaps with swiss layout available, I use blank ones.
 
