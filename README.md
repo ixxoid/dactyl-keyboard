@@ -181,18 +181,17 @@ Flash the Arduinos
 
 BOM:
 
-Amoeba Single-Switch PCBs ([https://keeb.io/products/amoeba-single-switch-pcbs](https://keeb.io/products/amoeba-single-switch-pcbs))
-Mill-Max Hotswap Sockets ([https://keeb.io/products/mill-max-hotswap-sockets](https://keeb.io/products/mill-max-hotswap-sockets))
-Pro Micro (USB-C Version) - 5V/16MHz - Arduino-compatible ATmega32U4 ([https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4](https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4))
-1N4148 Diodes ([https://keeb.io/products/1n4148-diodes](https://keeb.io/products/1n4148-diodes))
-TRRS PJ-320A Jack - 3.5mm ([https://keeb.io/products/trrs-jack-3-5mm](https://keeb.io/products/trrs-jack-3-5mm))
-TRRS Cable ([https://keeb.io/products/trrs-cable](https://keeb.io/products/trrs-cable))
-SKUF Silicone Rubber Keyboard Feet (3M 9448A) ([https://keeb.io/products/skuf-silicone-rubber-keyboard-feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet))
-
-Copper Wire https://www.distrelec.ch/de/kupferdraht-05mm-o0-25mm-100g-dahrentrad-dasol-1x0-25-mm-hg/p/15517271
-CHERRY MX3A-L1NN   CHERRY MX Silent Red (sold out)
-Wood Fillament for the case
-PETG like fillament for the Arduino & TRRS holders and the bottom plates.
+- Amoeba Single-Switch PCBs ([https://keeb.io/products/amoeba-single-switch-pcbs](https://keeb.io/products/amoeba-single-switch-pcbs))
+- Mill-Max Hotswap Sockets ([https://keeb.io/products/mill-max-hotswap-sockets](https://keeb.io/products/mill-max-hotswap-sockets))
+- Pro Micro (USB-C Version) - 5V/16MHz - Arduino-compatible ATmega32U4 ([https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4](https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4))
+- 1N4148 Diodes ([https://keeb.io/products/1n4148-diodes](https://keeb.io/products/1n4148-diodes))
+- TRRS PJ-320A Jack - 3.5mm ([https://keeb.io/products/trrs-jack-3-5mm](https://keeb.io/products/trrs-jack-3-5mm))
+- TRRS Cable ([https://keeb.io/products/trrs-cable](https://keeb.io/products/trrs-cable))
+- SKUF Silicone Rubber Keyboard Feet (3M 9448A) ([https://keeb.io/products/skuf-silicone-rubber-keyboard-feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet))
+- Copper Wire https://www.distrelec.ch/de/kupferdraht-05mm-o0-25mm-100g-dahrentrad-dasol-1x0-25-mm-hg/p/15517271
+- CHERRY MX3A-L1NN   CHERRY MX Silent Red (sold out)
+- Wood Fillament for the case
+- PETG like fillament for the Arduino & TRRS holders and the bottom plates.
 
 
 **Links:**
