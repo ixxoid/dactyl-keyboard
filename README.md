@@ -179,8 +179,6 @@ Flash the Arduinos
 
 **Used Parts:**
 
-BOM:
-
 - Amoeba Single-Switch PCBs ([https://keeb.io/products/amoeba-single-switch-pcbs](https://keeb.io/products/amoeba-single-switch-pcbs))
 - Mill-Max Hotswap Sockets ([https://keeb.io/products/mill-max-hotswap-sockets](https://keeb.io/products/mill-max-hotswap-sockets))
 - Pro Micro (USB-C Version) - 5V/16MHz - Arduino-compatible ATmega32U4 ([https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4](https://keeb.io/products/pro-micro-usb-c-version-5v-16mhz-arduino-compatible-atmega32u4))
